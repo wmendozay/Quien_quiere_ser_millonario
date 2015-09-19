@@ -9,5 +9,7 @@
  * @author sistemas
  */
 public class w {
-    
+ public int x=0;
+ 
+ 
 }
