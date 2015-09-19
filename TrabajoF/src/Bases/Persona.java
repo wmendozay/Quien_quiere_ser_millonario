@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package Bases;
 
 /**
  *
  * @author sistemas
  */
-public class w {
- public int x=0;
- 
- 
+public class Persona {
+    
 }

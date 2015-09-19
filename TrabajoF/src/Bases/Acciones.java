@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package Bases;
 
 /**
  *
- * @author Usuario
+ * @author sistemas
  */
-public class Participante extends Persona{
+public class Acciones {
     
 }
