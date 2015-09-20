@@ -5,10 +5,13 @@
  */
 package Bases;
 
+import Clases.Pregunta;
+import Interfaces.IAccion;
 /**
  *
  * @author sistemas
  */
 public class Acciones {
-    
+    public boolean Disponible=true;
+    public String NombreAccion;
 }
