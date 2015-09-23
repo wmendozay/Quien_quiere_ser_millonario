@@ -1,2 +1,0 @@
-1; raiz cuadrada de 16; [2;5;8;*4*]
-10; En identidades trigonometricas la funcion seno sobre coseno es igual a ; [cotangente, secante, cosecante; *tangente*]
