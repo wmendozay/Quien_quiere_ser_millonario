@@ -11,7 +11,8 @@ import Bases.*;
  */
 public class GestionJuego {
     
-    public GestionJuego(){
+    public GestionJuego(String TipoUsuario){
+        int nivelactual;
         
         
     }

@@ -1,7 +1,7 @@
 
 package Clases;
 import Bases.Acciones;
-import Interfaces.IAccion; 
+import Interfaces.*; 
 import java.util.Random;
 
 /**
