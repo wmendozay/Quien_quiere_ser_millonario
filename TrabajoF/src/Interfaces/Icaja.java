@@ -1,14 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Interfaces;
 
 /**
  *
- * @author Dadi
+ * @author Daihana Vélez
  */
+
+//INTERFAZ Icaja
 public interface Icaja {
-    
+    //SE DECLARA UN VBLE LLAMADA "Tope" DE TIPO DOUBLE
+    public double Tope=300000000;
 }

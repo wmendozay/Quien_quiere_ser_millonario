@@ -1,14 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Interfaces;
 
 /**
  *
- * @author Dadi
+ * @author Daihana Vélez
  */
+
+//INTERFAZ Iseguros
 public interface Iseguros {
-    
+    /*SE DEFINE "Seguros" COMO UN VECTOR DE ENTEROS QUE CONTIENE EL NUMERO DE LAS PREGUNTAS DONDE SE DARÁN 
+    LOS SEGUROS DEL JUEGO SIENDO RESPECTIVA/ EN LAS PREGUNTAS 5,10,15*/
+    public int[] Seguros={5,10,15};
 }

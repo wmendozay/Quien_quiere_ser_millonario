@@ -1,14 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Interfaces;
 
 /**
  *
- * @author Dadi
+ * @author Daihana Vélez
  */
+
+//SE IMPORTAN CLASES DEL PAQUETE "Clases"
+import Clases.Pregunta;
+
+//INTERFAZ IAccion
 public interface IAccion {
-    
+    //SE DEFINE EL METODO "EjecutarAccion" NECESITANDO COMO PARAMETRO DE ENTRADA UN OBJETO DE TIPO PREGUNTA
+    public void EjecutarAccion(Pregunta pregunta);
 }
