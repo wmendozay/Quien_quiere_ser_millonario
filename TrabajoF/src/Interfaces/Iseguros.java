@@ -9,6 +9,6 @@ package Interfaces;
  *
  * @author Dadi
  */
-public class Iseguros {
+public interface Iseguros {
     
 }

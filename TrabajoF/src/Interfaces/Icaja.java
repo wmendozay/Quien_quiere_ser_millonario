@@ -9,6 +9,6 @@ package Interfaces;
  *
  * @author Dadi
  */
-public class Icaja {
+public interface Icaja {
     
 }
