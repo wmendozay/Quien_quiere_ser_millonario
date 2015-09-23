@@ -13,7 +13,7 @@ public class Ayuda5050 extends Acciones implements IAccion {
     
     public Ayuda5050 ()
     {
-        this.NombreAccion= "50 \ 50";
+        this.NombreAccion= "50\50";
     }
         public void EjecutarAccion(Pregunta pregunta) {
     
