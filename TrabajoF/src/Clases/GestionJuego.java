@@ -13,7 +13,9 @@ public class GestionJuego {
     
     public GestionJuego(String TipoUsuario){
         int nivelactual;
-        
+        if(TipoUsuario=="Participante"){
+            
+        }
         
     }
     
